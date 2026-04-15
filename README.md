@@ -25,9 +25,9 @@ Demonstrated end-to-end analytics workflow from raw data to stakeholder presenta
 
 How to Navigate This Repository
 
-/Dashboard → Power BI dashboard file (.pbix),
-/Report → Final analytical report,
-/Documentation → Methodology and supporting materials,
-/Visuals → Dashboard screenshots and presentation visuals
+Dashboard → Interactive Power BI dashboard,
+Report → Final capstone report,
+Presentation → Final presentation slides,
+Code → Python Code
 
 Privacy & Client Note: All data included in this repository has been modified to protect client confidentiality. Sensitive organizational information has been removed or replaced where necessary.
